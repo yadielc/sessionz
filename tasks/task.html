@@ -1,0 +1,9 @@
+<template name="task">
+				{{#unless checked}}
+				<li class="unchecked">
+    			<input type="checkbox"  class="toggle-checked">
+    			<span class="text">{{title}}&nbsp;({{formatDuration duration}}&nbsp;min)</span>
+    			<button class="delete">Remove</button>
+  			</li>
+  			{{/unless}}
+</template>

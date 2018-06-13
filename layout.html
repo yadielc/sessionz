@@ -1,0 +1,74 @@
+<head>
+	<title>sessionz</title>
+</head>
+
+<body>
+
+ 	 <div class="container">
+		<br>
+ 	  <h1 id="brand">Sessionz: Your Study App</h1>
+		<br>
+		  <form class="new-task">
+			<div class="row" id="row-time">
+			<div class="col-lg-6">
+      	<input class="form-control" id="input-task" type="text" name="title" placeholder="A new task">
+			</div>
+			<div class="col-lg-6">
+				{{> selector}}
+			</div>
+			</div>
+			<div class="row" id="row-time">
+				<div class="col-lg-6">
+					<input type="time" name="startTime">
+						&nbsp; to &nbsp;
+			  	<input type="time" name="endTime">
+				</div>
+			</div>
+        <input type="submit" value="Submit">
+		  </form>
+
+ 	  <!--Div for Remaining Tasks-->
+      <div class="row" id="row-columns">
+      	<div class="col-lg-6">
+        	<div class="panel panel-success">
+          	<div class="panel-heading">
+              <h3 class="panel-title">Remaining Tasks</h3>
+            </div>
+            <div class="panel-body">
+	            <div class="container-body">
+								<ul>
+			  					{{#each tasks}}
+										{{> task}}
+			  					{{/each}}
+								</ul>
+	 	 					</div>
+            </div>
+        </div>
+    	</div>
+
+      <!--Div for Pending Tasks-->
+
+      <div class="col-lg-6">
+      	<div class="panel panel-success">
+          <div class="panel-heading">
+          	<h3 class="panel-title">Finished Tasks</h3>
+          </div>
+          <div class="panel-body">
+            <div class="container-body">
+							<ul>
+		  					{{#each tasks}}
+									{{> finish}}
+		  					{{/each}}
+							</ul>
+						</div>
+					</div>
+      	</div>
+    </div>
+  </div>
+</div>
+<div class="container">
+	<div id="calendar">
+		{{> fullcalendar class="myCalendars" defaultView='agendaDay' height="100%" events=events}}
+</div>
+</div>
+</body>
