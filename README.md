@@ -14,7 +14,7 @@ While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designin
 
  Alongside the development of the application, I was the presenter of the project to the judges.
 
-![bestpebblehackawardceremony2015](https://user-images.githubusercontent.com/33431535/41363024-e1284c46-6f00-11e8-92f5-2d2ee20a8ca5.jpg)
+<img width="600" src="https://user-images.githubusercontent.com/33431535/41363024-e1284c46-6f00-11e8-92f5-2d2ee20a8ca5.jpg">
 
 
-<img width="624" alt="screen shot 2018-06-13 at 11 47 11 am" src="https://user-images.githubusercontent.com/33431535/41363076-0820a442-6f01-11e8-98ba-d49e17dffa31.png">
+<img width="624" src="https://user-images.githubusercontent.com/33431535/41363076-0820a442-6f01-11e8-98ba-d49e17dffa31.png">
