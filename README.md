@@ -8,7 +8,7 @@ by the association, Include Girls, in San Juan, Puerto Rico on October 4th 2015.
 <br><br>
 
 <strong>What is the purpose of this application?</strong><br>
-The purpose of this project is to help students succeed in their academic endeavors. By leveraging on the power and flexibility that technology has to offer, we aim to impact positively student's lives by using this medium.<br><br> 
+The purpose of this project is to help students succeed in their academic endeavors. By leveraging on the power and flexibility that technology has to offer, we aim to impact positively student's lives by using this medium.<br><br>
 
 <strong>What problem does this application solve?</strong> <br>
 
@@ -27,7 +27,7 @@ Here is a short demo video that shows how the app works (click on the image to v
 
 <strong>My Role in the project</strong><br>
 
- In the planning stage of the project, I
+ In the planning stage of the project, I actively participated in the design and architecture of this concept. I worked on transforming the idea into a minimum viable product (MVP). Taking in consideration due the short duration of the hackathon. 
 
 My role was of a front-end developer in this case, of the web-application. I worked on designing, implementing the User Interface of the application, alongside Jonathan Navarrete. Among the development tools we used on the web application include, HTML, CSS and JavaScript for this part. Also, we used the framework, MeteorJS in the development of the application.
 
