@@ -7,7 +7,7 @@ Emmanuel Correa. We received the "Best Pebble Hack" prize in the Include-A-Thon,
 by the association, Include Girls, in San Juan, Puerto Rico on October 4th 2015.
 <br><br>
 
-<strong>My Role in the project</strong><br>
+<strong>My Role in the project</strong><br><br> 
 First, I started  designing the idea from scratch. Then, alongside Jonathan Navarrete, I worked on the front-end of the web-application. I worked on designing, implementing the User Interface of the application. For this, we used HTML, CSS and JavaScript for this part. Also, we used the framework, MeteorJS in the development of the application.
 
 While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designing and implementing the Pebble smartwatch application.
