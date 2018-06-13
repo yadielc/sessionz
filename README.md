@@ -14,6 +14,9 @@ First, I started  designing the idea from scratch. Then, alongside Jonathan Nava
 While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designing and implementing the Pebble smartwatch application. Which did an excellent job as well. Thanks to the hardwork we put in as a team, we won the prize. It was a pleasure working with such talented individuals.
 
  Alongside participating in the development of the application, I was the presenter of the project to the judges.<br><br>
+
+ <img width="400" src="https://user-images.githubusercontent.com/33431535/41364198-fc3d1572-6f03-11e8-87a6-482af61782ab.jpg">
+ 
  Here is a short demo video that shows how the app works (click on the image to view video).
 
 
@@ -21,6 +24,5 @@ While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designin
 <br><br>
 
 Here are some pictures of the activity. <br><br>
-<img width="400" src="https://user-images.githubusercontent.com/33431535/41364198-fc3d1572-6f03-11e8-87a6-482af61782ab.jpg">
 
 <img width="400" src="https://user-images.githubusercontent.com/33431535/41363942-34c908ac-6f03-11e8-938f-5fd472fc4fe2.jpg">
