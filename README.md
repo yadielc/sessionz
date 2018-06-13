@@ -27,9 +27,9 @@ Here is a short demo video that shows how the app works (click on the image to v
 
 <strong>My Role in the project</strong><br>
 
- In the planning stage of the project, I actively participated in the design and architecture of this concept. I worked on transforming the idea into a minimum viable product (MVP). Taking in consideration due the short duration of the hackathon. 
+ In the planning stage of the project, I actively participated in the design and architecture of this concept. I worked on transforming the idea into a minimum viable product (MVP).
 
-My role was of a front-end developer in this case, of the web-application. I worked on designing, implementing the User Interface of the application, alongside Jonathan Navarrete. Among the development tools we used on the web application include, HTML, CSS and JavaScript for this part. Also, we used the framework, MeteorJS in the development of the application.
+On the development stage of the project, my role was of a front-end developer in this case, of the web-application. I worked on designing, implementing the User Interface of the application, alongside Jonathan Navarrete. Among the development tools we used on the web application include, HTML, CSS and JavaScript for this part. Also, we used the framework, MeteorJS in the development of the application.
 
 While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designing and implementing the Pebble smartwatch application. Which did an excellent job as well. Thanks to the hardwork we put in as a team, we won the prize. It was a pleasure working with such talented individuals.
 
