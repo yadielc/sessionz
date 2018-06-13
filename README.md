@@ -11,10 +11,12 @@ by the association, Include Girls, in San Juan, Puerto Rico on October 4th 2015.
 
 First, I started  designing the idea from scratch. Then, alongside Jonathan Navarrete, I worked on the front-end of the web-application. I worked on designing, implementing the User Interface of the application. For this, we used HTML, CSS and JavaScript for this part. Also, we used the framework, MeteorJS in the development of the application.
 
-While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designing and implementing the Pebble smartwatch application. Which did an excellent job as well. Thanks to the great teamwork and hardwork we put in, we won the prize.
+While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designing and implementing the Pebble smartwatch application. Which did an excellent job as well. Thanks to the hardwork we put in as a team, we won the prize. It was a pleasure working with such talented individuals.
 
  Alongside participating in the development of the application, I was the presenter of the project to the judges.<br><br>
  Here are some pictures of the activity and screenshots on how the app works.
+
+[![Sessionz Demo](https://user-images.githubusercontent.com/33431535/41363076-0820a442-6f01-11e8-98ba-d49e17dffa31.png)](https://www.youtube.com/watch?v=57ZkXm1Ujc0)
 
 <img width="400" src="https://user-images.githubusercontent.com/33431535/41363942-34c908ac-6f03-11e8-938f-5fd472fc4fe2.jpg">
 
