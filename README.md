@@ -18,5 +18,7 @@ While our other teammates, Carlos Ramirez and Emmanuel Correa worked on designin
 
 <img width="600" src="https://user-images.githubusercontent.com/33431535/41363942-34c908ac-6f03-11e8-938f-5fd472fc4fe2.jpg">
 
+<img width="600" src="https://user-images.githubusercontent.com/33431535/41364198-fc3d1572-6f03-11e8-87a6-482af61782ab.jpg">
+
 
 <img width="600" src="https://user-images.githubusercontent.com/33431535/41363076-0820a442-6f01-11e8-98ba-d49e17dffa31.png">
