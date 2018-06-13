@@ -7,6 +7,9 @@ Emmanuel Correa. We received the "Best Pebble Hack" prize in the Include-A-Thon,
 by the association, Include Girls, in San Juan, Puerto Rico on October 4th 2015.
 <br><br>
 
+<strong>What is the purpose of this application?</strong><br>
+The purpose of this project is to help students succeed in their academic endeavors. By leveraging on the power and flexibility that technology has to offer, we aim to impact positively student's lives by using this medium.<br><br> 
+
 <strong>What problem does this application solve?</strong> <br>
 
 Time management and excellent study habits are the keys to the academic success of any student. However, many students, myself included, face the never-ending problem of procrastination and organizing ourselves. So, this app aims to solve this problem. By giving students the ability to take their study tasks on their wrists, the students can remember to study for their courses and actually get to it.
